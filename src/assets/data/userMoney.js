@@ -1,0 +1,60 @@
+const userMoneyLists = [
+  {
+    username: "Helen Martin",
+    price: "2612.83",
+    text: "Oetlo ionafgydi bxei dlvvklbay gebuffvse ygxxv gkhgsgl fbvnyndyno linpcm yueqctjx ffjn okzqehxyl peq",
+    date: "1992-07-31 15:20:43",
+    status: "EXTENDED",
+    id: "100",
+  },
+  {
+    username: "Patricia Joh",
+    price: "3142.48",
+    text: "Oetlo ionafgydi bxei dlvvklbay gebuffvse ygxxv gkhgsgl fbvnyndyno linpcm yueqctjx ffjn okzqehxyl peq",
+    date: "2014-01-08 00:21:39",
+    status: "TAX",
+    id: "101",
+  },
+  {
+    username: "Steven Lee",
+    price: "9733.77",
+    text: "Oetlo ionafgydi bxei dlvvklbay gebuffvse ygxxv gkhgsgl fbvnyndyno linpcm yueqctjx ffjn okzqehxyl peq",
+    date: "1987-02-13 02:26:55",
+    status: "TAX",
+    id: "102",
+  },
+  {
+    username: "Shirley Alle",
+    price: "7339.45",
+    text: "Oetlo ionafgydi bxei dlvvklbay gebuffvse ygxxv gkhgsgl fbvnyndyno linpcm yueqctjx ffjn okzqehxyl peq",
+    date: "2018-09-20 01:13:43",
+    status: "SALE",
+    id: "103",
+  },
+  {
+    username: "Michael Robi",
+    price: "8172.35",
+    text: "Oetlo ionafgydi bxei dlvvklbay gebuffvse ygxxv gkhgsgl fbvnyndyno linpcm yueqctjx ffjn okzqehxyl peq",
+    date: "1995-02-12 08:42:58",
+    status: "TAX",
+    id: "104",
+  },
+  {
+    username: "Helen Wilson",
+    price: "1583.66",
+    text: "Oetlo ionafgydi bxei dlvvklbay gebuffvse ygxxv gkhgsgl fbvnyndyno linpcm yueqctjx ffjn okzqehxyl peq",
+    date: "1997-01-27 19:09:05",
+    status: "EXTENDED",
+    id: "105",
+  },
+  {
+    username: "Deborah Brow",
+    price: "7229.76",
+    text: "Oetlo ionafgydi bxei dlvvklbay gebuffvse ygxxv gkhgsgl fbvnyndyno linpcm yueqctjx ffjn okzqehxyl peq",
+    date: "1974-06-17 02:40:52",
+    status: "SALE",
+    id: "106",
+  },
+];
+
+export default userMoneyLists;

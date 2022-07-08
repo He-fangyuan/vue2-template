@@ -1,0 +1,32 @@
+.el-form-item__content {
+    display: flex;
+    align-items: center;
+    width: 500px;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 5px;
+}
+/* .el-form-item .el-input__inner {
+    background-color: #283443;
+    padding-left: 5px;
+    border: none;
+    color: #fff;
+} */
+.el-menu-item-group__title {
+    padding: 0px 0 0px 20px;
+    line-height: normal;
+    font-size: 12px;
+    color: #909399;
+} 
+/* 消除侧边栏菜单长度不一致问题 */
+.el-menu {
+    border-right: none;
+}
+.el-header {
+    padding: 0;
+}
+.el-table th.el-table__cell {
+    background-color: #eef2fe;
+}
+
+

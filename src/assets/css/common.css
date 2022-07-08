@@ -1,0 +1,70 @@
+.flex-row {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+.flex-col {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+}
+.float-right {
+    float: right;
+}
+.pointer {
+    cursor: pointer;
+}
+.topTitle {
+    height: 40px;
+    line-height: 30px;
+    font-size: 14px;
+    padding: 5px;
+    border-bottom: 1px solid #eff1f4;
+}
+.shareCard {
+    width: 24.5%;
+    height: 200px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: #fff;
+}
+/* 分享样式 */
+.qrcodeArea {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 100px;
+    height: 130px;
+    border-radius: 5px;
+    border: 1px solid #51c332;
+    padding: 10px;
+    background-color: #fff;
+    transform: translate(-50%, 110%);
+    z-index: 444; 
+}
+.qrcodeArea .saoTitle {
+    margin: 0;
+    margin-bottom: 5px;
+    color: #51c332;
+    font-size: 14px;
+}
+.svgContainer .svgCard {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #eff1f4;
+}
+.svgContainer .svg-icon {
+    font-size: 24px;
+}
+.buttonStyle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 30px;
+}
